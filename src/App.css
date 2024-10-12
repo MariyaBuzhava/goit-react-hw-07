@@ -28,7 +28,6 @@ input {
   border-radius: 5px;
   padding: 8px;
   margin: 5px 0;
-  width: 100%;
 }
 
 label {
@@ -39,4 +38,8 @@ label {
 }
 span {
   color: #6a1b9a;
+}
+
+p {
+  text-align: center;
 }
